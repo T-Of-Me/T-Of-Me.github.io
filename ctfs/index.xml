@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CTFs on TIWZA</title>
+    <link>http://localhost:50106/ctfs/</link>
+    <description>Recent content in CTFs on TIWZA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 </copyright>
+    <lastBuildDate>Sat, 28 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:50106/ctfs/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>aaaa</title>
+      <link>http://localhost:50106/ctfs/1751128434479-aaaa/</link>
+      <pubDate>Sat, 28 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:50106/ctfs/1751128434479-aaaa/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:50106/ctfs/1751128434479-aaaa/featured.png" />
+    </item>
+    
+    <item>
+      <title>aaaa</title>
+      <link>http://localhost:50106/ctfs/web/1751127840017-aaaa/</link>
+      <pubDate>Sat, 28 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:50106/ctfs/web/1751127840017-aaaa/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:50106/ctfs/web/1751127840017-aaaa/featured.png" />
+    </item>
+    
+    <item>
+      <title>aaaaa</title>
+      <link>http://localhost:50106/ctfs/1751128505767-aaaaa/</link>
+      <pubDate>Sat, 28 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:50106/ctfs/1751128505767-aaaaa/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:50106/ctfs/1751128505767-aaaaa/featured.png" />
+    </item>
+    
+    <item>
+      <title>abc</title>
+      <link>http://localhost:50106/ctfs/1751127800215-abc/</link>
+      <pubDate>Sat, 28 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:50106/ctfs/1751127800215-abc/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:50106/ctfs/1751127800215-abc/featured.png" />
+    </item>
+    
+    <item>
+      <title>ctf</title>
+      <link>http://localhost:50106/ctfs/web/1751127691842-ctf/</link>
+      <pubDate>Sat, 28 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:50106/ctfs/web/1751127691842-ctf/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:50106/ctfs/web/1751127691842-ctf/featured.png" />
+    </item>
+    
+    <item>
+      <title>ddd</title>
+      <link>http://localhost:50106/ctfs/1751128763083-ddd/</link>
+      <pubDate>Sat, 28 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:50106/ctfs/1751128763083-ddd/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:50106/ctfs/1751128763083-ddd/featured.png" />
+    </item>
+    
+    <item>
+      <title>test</title>
+      <link>http://localhost:50106/ctfs/1751127048752-test/</link>
+      <pubDate>Sat, 28 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:50106/ctfs/1751127048752-test/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:50106/ctfs/1751127048752-test/featured.png" />
+    </item>
+    
+  </channel>
+</rss>
