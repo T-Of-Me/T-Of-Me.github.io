@@ -40,7 +40,7 @@ homepageImage = "700_F_1165390549_SbOKZ31R3ulcKgEu9vkPQ2UIOd0pf27J_ST.gif"
 layout = "background"
 layoutBackgroundBlur = true
 showMoreLink = true
-showMoreLinkDest = "/CTFs/"
+showMoreLinkDest = ""
 showRecent = true
 showRecentItems = 12
 
