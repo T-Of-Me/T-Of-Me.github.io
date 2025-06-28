@@ -1,26 +1,26 @@
 autoSwitchAppearance = true
-buymeacoffee = { }
+buymeacoffee = {}
 colorScheme = "blowfish"
 defaultAppearance = "dark"
-defaultBackgroundImage = "lavalamp.svg"
+defaultBackgroundImage = "700_F_713871921_fSHUhsJQSqbwCDKedRgkrQZexZJFfB3p_ST.gif"
 defaultFeaturedImage = "featured.svg"
 defaultSocialImage = "/img/blowfish.jpg"
 disableImageOptimization = false
 disableTextInHeader = false
 enableCodeCopy = false
 enableSearch = true
-fathomAnalytics = { }
-firebase = { }
+fathomAnalytics = {}
+firebase = {}
 forgejoDefaultServer = "https://v8.next.forgejo.org"
 giteaDefaultServer = "https://git.fsfe.org"
 highlightCurrentMenuArea = true
 replyByEmail = false
-rssnext = { }
-selineAnalytics = { }
+rssnext = {}
+selineAnalytics = {}
 smartTOC = true
 smartTOCHideUnfocusedChildren = false
-umamiAnalytics = { }
-verification = { }
+umamiAnalytics = {}
+verification = {}
 
 [header]
 layout = "fixed-fill-blur"
@@ -36,7 +36,7 @@ showThemeAttribution = true
 cardView = true
 cardViewScreenWidth = false
 disableHeroImageFilter = false
-homepageImage = "featured.svg"
+homepageImage = "700_F_1165390549_SbOKZ31R3ulcKgEu9vkPQ2UIOd0pf27J_ST.gif"
 layout = "background"
 layoutBackgroundBlur = true
 showMoreLink = true
@@ -55,13 +55,13 @@ seriesOpened = false
 sharingLinks = [
   "linkedin",
   "twitter",
-  "bluesky",
+  "red",
   "reddit",
   "whatsapp",
   "telegram",
   "pinterest",
   "facebook",
-  "email"
+  "email",
 ]
 showAuthor = true
 showAuthorsBadges = true
@@ -91,18 +91,18 @@ constrainItemsWidth = false
 groupByYear = false
 heroStyle = "background"
 layoutBackgroundBlur = true
-layoutBackgroundHeaderSpace = false
+layoutBackgroundHeaderSpace = true
 orderByWeight = true
 showBreadcrumbs = false
 showCards = true
 showHero = true
 showLikes = false
-showSummary = false
+showSummary = ""
 showTableOfContents = true
 showViews = false
 
 [sitemap]
-excludedKinds = [ "taxonomy", "term" ]
+excludedKinds = ["taxonomy", "term"]
 
 [taxonomy]
 cardView = false

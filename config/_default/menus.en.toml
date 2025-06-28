@@ -2,9 +2,24 @@
 none = "none"
 
 [[main]]
-identifier = "yTXMnEUQ9z"
-name = "POST"
-pageRef = "posts"
+identifier = "B06tfaZrQp"
+name = "2024"
+pageRef = "2024"
+parent = "CTF"
+weight = 9_999
+
+[[main]]
+identifier = "BsG3186vWN"
+name = "2025"
+pageRef = "2025"
+parent = "CTF"
+weight = 9_999
+
+[[main]]
+identifier = "TqaBlQ9nPs"
+name = "2026"
+pageRef = "2026"
+parent = "CTF"
 weight = 9_999
 
 [[footer]]

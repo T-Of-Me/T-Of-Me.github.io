@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>20255s on TIWZA</title>
+    <link>http://localhost:50106/20255/</link>
+    <description>Recent content in 20255s on TIWZA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 </copyright>
+    <lastBuildDate>Sat, 28 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:50106/20255/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>eeee</title>
+      <link>http://localhost:50106/20255/1751129529460-eeee/</link>
+      <pubDate>Sat, 28 Jun 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:50106/20255/1751129529460-eeee/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:50106/20255/1751129529460-eeee/featured.png" />
+    </item>
+    
+  </channel>
+</rss>
