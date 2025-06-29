@@ -2,13 +2,6 @@
 none = "none"
 
 [[main]]
-identifier = "B06tfaZrQp"
-name = "2024"
-pageRef = "2024"
-parent = "CTF"
-weight = 9_999
-
-[[main]]
 identifier = "BsG3186vWN"
 name = "2025"
 pageRef = "2025"
