@@ -1,3 +1,1 @@
 User-agent: *
-Allow: /
-Sitemap: https://T-Of-Me.github.io/sitemap.xml
