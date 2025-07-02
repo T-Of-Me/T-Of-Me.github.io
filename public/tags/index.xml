@@ -2,69 +2,69 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on TIWZA</title>
-    <link>https://T-Of-Me.github.io/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on TIWZA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 </copyright>
-    <lastBuildDate>Wed, 02 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://T-Of-Me.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>CVE</title>
-      <link>https://T-Of-Me.github.io/tags/cve/</link>
+      <link>http://localhost:1313/tags/cve/</link>
       <pubDate>Wed, 02 Jul 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://T-Of-Me.github.io/tags/cve/</guid>
+      <guid>http://localhost:1313/tags/cve/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Example</title>
-      <link>https://T-Of-Me.github.io/tags/example/</link>
+      <link>http://localhost:1313/tags/example/</link>
       <pubDate>Wed, 02 Jul 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://T-Of-Me.github.io/tags/example/</guid>
+      <guid>http://localhost:1313/tags/example/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Tag</title>
-      <link>https://T-Of-Me.github.io/tags/tag/</link>
+      <link>http://localhost:1313/tags/tag/</link>
       <pubDate>Wed, 02 Jul 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://T-Of-Me.github.io/tags/tag/</guid>
+      <guid>http://localhost:1313/tags/tag/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>B01LERCHAIN</title>
-      <link>https://T-Of-Me.github.io/tags/b01lerchain/</link>
+      <link>http://localhost:1313/tags/b01lerchain/</link>
       <pubDate>Sat, 28 Jun 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://T-Of-Me.github.io/tags/b01lerchain/</guid>
+      <guid>http://localhost:1313/tags/b01lerchain/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>PICO</title>
-      <link>https://T-Of-Me.github.io/tags/pico/</link>
+      <link>http://localhost:1313/tags/pico/</link>
       <pubDate>Sat, 28 Jun 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://T-Of-Me.github.io/tags/pico/</guid>
+      <guid>http://localhost:1313/tags/pico/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Web</title>
-      <link>https://T-Of-Me.github.io/tags/web/</link>
+      <link>http://localhost:1313/tags/web/</link>
       <pubDate>Sat, 28 Jun 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://T-Of-Me.github.io/tags/web/</guid>
+      <guid>http://localhost:1313/tags/web/</guid>
       <description></description>
       
     </item>

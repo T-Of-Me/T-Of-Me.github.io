@@ -2,101 +2,101 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>TIWZA</title>
-    <link>https://T-Of-Me.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on TIWZA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 </copyright>
-    <lastBuildDate>Wed, 02 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://T-Of-Me.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>CVE-2020-30190</title>
-      <link>https://T-Of-Me.github.io/cve/1751439102871-aaa/</link>
+      <link>http://localhost:1313/cve/1751439102871-aaa/</link>
       <pubDate>Wed, 02 Jul 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://T-Of-Me.github.io/cve/1751439102871-aaa/</guid>
+      <guid>http://localhost:1313/cve/1751439102871-aaa/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://T-Of-Me.github.io/cve/1751439102871-aaa/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/cve/1751439102871-aaa/featured.png" />
     </item>
     
     <item>
       <title>JCCTF</title>
-      <link>https://T-Of-Me.github.io/2025/1751472665912-jcctf/</link>
+      <link>http://localhost:1313/2025/1751472665912-jcctf/</link>
       <pubDate>Wed, 02 Jul 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://T-Of-Me.github.io/2025/1751472665912-jcctf/</guid>
+      <guid>http://localhost:1313/2025/1751472665912-jcctf/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://T-Of-Me.github.io/2025/1751472665912-jcctf/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/2025/1751472665912-jcctf/featured.png" />
     </item>
     
     <item>
       <title>R3CTF</title>
-      <link>https://T-Of-Me.github.io/2025/1751440528616-r3ctf/</link>
+      <link>http://localhost:1313/2025/1751440528616-r3ctf/</link>
       <pubDate>Wed, 02 Jul 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://T-Of-Me.github.io/2025/1751440528616-r3ctf/</guid>
+      <guid>http://localhost:1313/2025/1751440528616-r3ctf/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://T-Of-Me.github.io/2025/1751440528616-r3ctf/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/2025/1751440528616-r3ctf/featured.png" />
     </item>
     
     <item>
       <title>2423423</title>
-      <link>https://T-Of-Me.github.io/2026/1751130623006-2423423/</link>
+      <link>http://localhost:1313/2026/1751130623006-2423423/</link>
       <pubDate>Sat, 28 Jun 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://T-Of-Me.github.io/2026/1751130623006-2423423/</guid>
+      <guid>http://localhost:1313/2026/1751130623006-2423423/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://T-Of-Me.github.io/2026/1751130623006-2423423/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/2026/1751130623006-2423423/featured.png" />
     </item>
     
     <item>
       <title>B01LERCHAIN 2025</title>
-      <link>https://T-Of-Me.github.io/2025/1751130535212-%C3%A2ddssd/</link>
+      <link>http://localhost:1313/2025/1751130535212-%C3%A2ddssd/</link>
       <pubDate>Sat, 28 Jun 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://T-Of-Me.github.io/2025/1751130535212-%C3%A2ddssd/</guid>
+      <guid>http://localhost:1313/2025/1751130535212-%C3%A2ddssd/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://T-Of-Me.github.io/2025/1751130535212-%C3%A2ddssd/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/2025/1751130535212-%C3%A2ddssd/featured.png" />
     </item>
     
     <item>
       <title>PICO CTF 2025</title>
-      <link>https://T-Of-Me.github.io/2025/1751197203675-pico-ctf-2025/</link>
+      <link>http://localhost:1313/2025/1751197203675-pico-ctf-2025/</link>
       <pubDate>Sat, 28 Jun 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://T-Of-Me.github.io/2025/1751197203675-pico-ctf-2025/</guid>
+      <guid>http://localhost:1313/2025/1751197203675-pico-ctf-2025/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://T-Of-Me.github.io/2025/1751197203675-pico-ctf-2025/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/2025/1751197203675-pico-ctf-2025/featured.png" />
     </item>
     
     <item>
       <title>SWAMP CTF-2025</title>
-      <link>https://T-Of-Me.github.io/2025/1751197438280-swamp-ctf/</link>
+      <link>http://localhost:1313/2025/1751197438280-swamp-ctf/</link>
       <pubDate>Sat, 28 Jun 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://T-Of-Me.github.io/2025/1751197438280-swamp-ctf/</guid>
+      <guid>http://localhost:1313/2025/1751197438280-swamp-ctf/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://T-Of-Me.github.io/2025/1751197438280-swamp-ctf/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/2025/1751197438280-swamp-ctf/featured.png" />
     </item>
     
     <item>
       <title>BREAK THE SYNTAX	2025</title>
-      <link>https://T-Of-Me.github.io/2025/1751197810626-d%C4%91/</link>
+      <link>http://localhost:1313/2025/1751197810626-d%C4%91/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://T-Of-Me.github.io/2025/1751197810626-d%C4%91/</guid>
+      <guid>http://localhost:1313/2025/1751197810626-d%C4%91/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://T-Of-Me.github.io/2025/1751197810626-d%C4%91/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/2025/1751197810626-d%C4%91/featured.png" />
     </item>
     
     <item>
       <title>Cyber Apocalypse CTF 2025: Tales from Eldoria</title>
-      <link>https://T-Of-Me.github.io/2025/1751197648644-aaa/</link>
+      <link>http://localhost:1313/2025/1751197648644-aaa/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://T-Of-Me.github.io/2025/1751197648644-aaa/</guid>
+      <guid>http://localhost:1313/2025/1751197648644-aaa/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://T-Of-Me.github.io/2025/1751197648644-aaa/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/2025/1751197648644-aaa/featured.png" />
     </item>
     
   </channel>
