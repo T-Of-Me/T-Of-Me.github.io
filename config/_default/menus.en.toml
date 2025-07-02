@@ -15,5 +15,11 @@ pageRef = "2026"
 parent = "CTF"
 weight = 9_999
 
+[[main]]
+name = "CVE"
+pageRef = "CVE"
+identifier = "5uEnAM19b2"
+weight = 9_999
+
 [[footer]]
 none = "none"

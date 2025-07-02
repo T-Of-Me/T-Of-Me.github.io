@@ -3,6 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
+    <loc>https://T-Of-Me.github.io/cve/1751439102871-aaa/</loc>
+    <lastmod>2025-07-02T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://T-Of-Me.github.io/cve/</loc>
+    <lastmod>2025-07-02T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://T-Of-Me.github.io/</loc>
+    <lastmod>2025-07-02T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://T-Of-Me.github.io/2025/</loc>
     <lastmod>2025-06-28T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -34,12 +52,6 @@
   </url>
   <url>
     <loc>https://T-Of-Me.github.io/2025/1751197438280-swamp-ctf/</loc>
-    <lastmod>2025-06-28T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://T-Of-Me.github.io/</loc>
     <lastmod>2025-06-28T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
